@@ -1,39 +1,36 @@
-{
-   [
-      {
-        "group": "ПО-17",
-        "id": 1,
-        "paraname": "Инфоком.сист",
-        "pname": "Гайнуллина",
-        "kabinet": 215
-      },
-      {
-        "group": "ПО-17",
-        "id": 2,
-        "paraname": "Разработка БД",
-        "pname": "Гайнуллина",
-        "kabinet": 215
-      },
-      {
-        "group": "ПО-17",
-        "id": 3,
-        "paraname": "НЕТ",
-        "pname": "null",
-        "kabinet": 0
-      },
-      {
-        "group": "ПО-17",
-        "id": 4,
-        "paraname": "Приклад. прогр.",
-        "pname": "Хамитов",
-        "kabinet": 117
-      },
-      {
-        "group": "ПО-17",
-        "id": 5,
-        "paraname": "Физкультура",
-        "pname": "Саптаряпов",
-        "kabinet": 0
-      }
-    ]
-}
+[{
+		"group": "ПО-17",
+		"id": 1,
+		"paraname": "Инфоком.сист",
+		"pname": "Гайнуллина",
+		"kabinet": 215
+	},
+	{
+		"group": "ПО-17",
+		"id": 2,
+		"paraname": "Разработка БД",
+		"pname": "Гайнуллина",
+		"kabinet": 215
+	},
+	{
+		"group": "ПО-17",
+		"id": 3,
+		"paraname": "НЕТ",
+		"pname": "null",
+		"kabinet": 0
+	},
+	{
+		"group": "ПО-17",
+		"id": 4,
+		"paraname": "Приклад. прогр.",
+		"pname": "Хамитов",
+		"kabinet": 117
+	},
+	{
+		"group": "ПО-17",
+		"id": 5,
+		"paraname": "Физкультура",
+		"pname": "Саптаряпов",
+		"kabinet": 0
+	}
+]
