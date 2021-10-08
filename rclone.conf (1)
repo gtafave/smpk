@@ -1,0 +1,15 @@
+[5d44cd8d-397c-4107-b79b-17f2b6a071e8]
+type = alias
+remote = /storage/emulated/0
+
+[3871-1A0F]
+type = alias
+remote = /storage/3871-1A0F
+
+[Music]
+type = webdav
+url = https://pb82-my.sharepoint.com/personal/gtafave_t_5tb_in/
+vendor = sharepoint
+user = gtafave@t.5tb.in
+pass = Zz2LoxnyGtuYyDzLZ0UElCND6_j_DQZcPYD9
+
